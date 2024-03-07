@@ -1,0 +1,185 @@
+\documentclass{article}
+
+% Add necessary packages
+\usepackage{natbib, graphicx, fancyhdr} % For managing references
+% natbib for bibtext
+
+% Add necessary commands
+\bibliographystyle{plainnat} % Specify the bibliography style
+
+% Define margins
+\setlength{\topmargin}{-1.0cm}
+\setlength{\oddsidemargin}{0.1cm}
+\setlength{\textwidth}{16.5cm}
+\setlength{\textheight}{23.0cm}
+
+\graphicspath{{images/}} %configuring the graphicx package
+
+% Define header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{{\includegraphics[height=.65cm]{etsiit-1.png}}}
+\rhead{\textbf{\textit{First Formal Progress Review}} }
+\cfoot{\textbf{\textit{\thepage}}}
+% \lfoot{\textbf{\textit{Page \thepage/\pageref*{LastPage}}}}
+% \rfoot{\textbf{\textit{Alejandro Romero Prieto}}}
+% \renewcommand{\footrulewidth}{0.7pt}
+\renewcommand{\headrulewidth}{0.7pt}
+\setlength{\headheight}{23pt}
+
+% This is to define a style with no footer for the table of contents
+\fancypagestyle{nofooter}{%
+	\fancyfoot{}%
+}
+
+
+
+
+% Add necessary packages
+
+% Add necessary commands
+\bibliographystyle{plainnat} % Specify the bibliography style
+
+
+% Define margins
+\setlength{\topmargin}{-1.0cm}
+\setlength{\oddsidemargin}{0.1cm}
+\setlength{\textwidth}{16.5cm}
+\setlength{\textheight}{23.0cm}
+
+\graphicspath{{images/}} %configuring the graphicx package
+
+% Define header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{{\includegraphics[height=.65cm]{etsiit-1.png}}}
+\rhead{\textbf{\textit{UniQuest AR}} }
+\cfoot{\textbf{\textit{\thepage}}}
+% \lfoot{\textbf{\textit{Page \thepage/\pageref*{LastPage}}}}
+% \rfoot{\textbf{\textit{Alejandro Romero Prieto}}}
+% \renewcommand{\footrulewidth}{0.7pt}
+\renewcommand{\headrulewidth}{0.7pt}
+\setlength{\headheight}{23pt}
+
+% This is to define a style with no footer for the table of contents
+\fancypagestyle{nofooter}{%
+  \fancyfoot{}%
+}
+
+
+
+% Title Page %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\begin{document}
+\begin{center}
+  \vspace*{0.5\baselineskip} % Reduced space
+  \includegraphics[width=0.8\textwidth]{ugr-2.png}\\
+  \vfill
+  %\vspace*{8\baselineskip} % Reduced space
+  {\Huge \textbf{Entrega 1 CUIA}}\\ % Enlarged font
+  \vspace*{3\baselineskip}
+  {\LARGE \textbf{UniQuest AR}}\\
+  \begin{large}
+    \vspace*{2\baselineskip}
+    Fecha: 07/03/2024\\
+    \vspace*{1\baselineskip}
+    \emph{por} \\[1ex]
+    {\Large Torres Ramos, Juan Luis \\}
+	\vspace*{0.5\baselineskip}
+    {{ g20596044@correo.ugr.es}}\\[1cm]
+    %\vspace*{4\baselineskip}
+    \vfill
+	{Universidad de Granada}\\
+    {\large ETSIIT}\par
+	\vspace*{3\baselineskip}
+  \end{large}
+  \thispagestyle{empty} 
+\end{center}
+\pagebreak
+
+
+
+
+
+% Contents %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \lhead{\emph{Contents}} % Set the left side page header to "Contents"
+%\tableofcontents
+%	\thispagestyle{nofooter}
+%	%\include{abstract/abstract}
+%	\cleardoublepage
+%	\typeout{}
+
+%\pagebreak
+
+% Student %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{page}{1}
+
+\section{Idea Principal}
+\label{sec:Idea Principal}
+Descubre y conecta con tu facultad gracias a UniQuest. Haz que tu vida universitaria sea mas interactiva y sencilla mediante la implementación de AR, reconocimiento de voz y reconocimiento de imágenes. Además agrega un toque social que enriquecerá tu experiencia universitaria haciéndola mas divertida. 
+\vspace*{1\baselineskip}
+
+\raggedright
+\textbf{Objetivos:}
+\begin{enumerate}
+	\item \textbf{Interacción en las Aulas con Marcadores:}
+	  \begin{itemize}
+		\item Visualizar asignaturas en 3D según el horario.
+		\item Marcar la asistencia mediante la lectura de un marcador y acumular puntos por cada asistencia registrada, interactuar con AR..
+	  \end{itemize}
+  
+	\item \textbf{Guía para Navegar entre Clases:}
+	  \begin{itemize}
+		\item Utilizar flechas en el suelo como guía para desplazarse de una clase a otra.
+	  \end{itemize}
+  
+	\item \textbf{Aspecto Social:}
+	  \begin{itemize}
+		\item Implementar una mascota personalizable inspirada en los Mii de nintendo y avatar de reddit.
+		\item Permitir que amigos escaneen tu avatar para ganar puntos sociales.
+		\item Dejar mensajes de voz para tus amigos.
+		\item El avatar estara enlazado con tu cuenta de la universidad.
+		\item Acceder a un calendario de eventos sociales de la universidad.
+	  \end{itemize}
+  
+	\item \textbf{Biblioteca:}
+	  \begin{itemize}
+		\item Escanear libros para verificar su disponibilidad.
+		\item Reservar espacios de trabajo mediante la lectura de un marcador.
+	  \end{itemize}
+  \end{enumerate}
+
+\vspace*{1\baselineskip}
+
+\textbf{Tecnologías:}
+	\begin{itemize}
+		\item Realidad Aumentada (AR)
+		\item Reconocimiento de voz
+		\item Reconocimiento de imágenes
+		\item geolocalización
+		\item gamificación
+	  \end{itemize}
+
+\vspace*{1\baselineskip}
+
+\textbf{Hardware y Software:}
+	\begin{itemize}
+	\item La aplicacion se centrara en el uso de dispositivos moviles
+	\item Nos centraremos en el uso de Unity Vuforia/ARCore y java 
+  \end{itemize}
+
+
+
+
+
+  
+  
+  
+\pagebreak
+
+
+
+\clearpage
+\end{document}
