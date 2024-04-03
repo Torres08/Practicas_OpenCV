@@ -1,53 +1,52 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.7)  2 APR 2024 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.4.3)  3 APR 2024 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/juanl/Documents/GitHub/Practicas_CUIA/PracticaFinal/E1/plantilla.tex
-(c:/Users/juanl/Documents/GitHub/Practicas_CUIA/PracticaFinal/E1/plantilla.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**/home/torres/Documents/Github/Practicas_CUIA/PracticaFinal/E1/plantilla.tex
+(/home/torres/Documents/Github/Practicas_CUIA/PracticaFinal/E1/plantilla.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip50
 \bibsep=\skip51
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count195
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+\c@NAT@ctr=\count193
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
@@ -58,11 +57,11 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip58
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
 \l__pdf_internal_box=\box51
-) (plantilla.aux)
+) (./plantilla.aux)
 \openout1 = `plantilla.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -79,56 +78,66 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
- (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count195
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count266
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count198
 \MPscratchDim=\dimen144
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks19
-) (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\juanl\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-<images/ugr-2.png, id=1, 647.2983pt x 180.1932pt>
-File: images/ugr-2.png Graphic file (type png)
-<use images/ugr-2.png>
-Package pdftex.def Info: images/ugr-2.png  used on input line 76.
+<images//ugr-2.png, id=1, 647.2983pt x 180.1932pt>
+File: images//ugr-2.png Graphic file (type png)
+<use images//ugr-2.png>
+Package pdftex.def Info: images//ugr-2.png  used on input line 76.
 (pdftex.def)             Requested size: 375.57779pt x 104.55336pt.
  [1
 
-{C:/Users/juanl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/ugr-2.png>]
-<images/etsiit-1.png, id=10, 108.8868pt x 104.7915pt>
-File: images/etsiit-1.png Graphic file (type png)
-<use images/etsiit-1.png>
-Package pdftex.def Info: images/etsiit-1.png  used on input line 165.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//ugr-2.png>]
+<images//etsiit-1.png, id=11, 108.8868pt x 104.7915pt>
+File: images//etsiit-1.png Graphic file (type png)
+<use images//etsiit-1.png>
+Package pdftex.def Info: images//etsiit-1.png  used on input line 158.
 (pdftex.def)             Requested size: 19.21663pt x 18.49411pt.
- [1 <./images/etsiit-1.png>] (plantilla.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
- ***********
- ) 
+ [1 <./images//etsiit-1.png>]
+<./images/Boceto1.png, id=20, 2055.68pt x 1168.365pt>
+File: ./images/Boceto1.png Graphic file (type png)
+<use ./images/Boceto1.png>
+Package pdftex.def Info: ./images/Boceto1.png  used on input line 162.
+(pdftex.def)             Requested size: 375.57779pt x 213.45215pt.
+File: ./images/Boceto1.png Graphic file (type png)
+<use ./images/Boceto1.png>
+Package pdftex.def Info: ./images/Boceto1.png  used on input line 168.
+(pdftex.def)             Requested size: 375.57779pt x 213.45215pt.
+File: images//etsiit-1.png Graphic file (type png)
+<use images//etsiit-1.png>
+Package pdftex.def Info: images//etsiit-1.png  used on input line 179.
+(pdftex.def)             Requested size: 19.21663pt x 18.49411pt.
+ [2 <./images/Boceto1.png>] (./plantilla.aux) ) 
 Here is how much of TeX's memory you used:
- 1851 strings out of 474486
- 29439 string characters out of 5743756
- 1932542 words of memory out of 5000000
- 24169 multiletter control sequences out of 15000+600000
- 561186 words of font info for 46 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 57i,15n,65p,284b,324s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\juanl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/juanl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/juanl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/juanl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/juanl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/juanl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on plantilla.pdf (2 pages, 168481 bytes).
+ 1866 strings out of 478051
+ 29320 string characters out of 5840944
+ 1856330 words of memory out of 5000000
+ 22023 multiletter control sequences out of 15000+600000
+ 515404 words of font info for 42 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,15n,62p,282b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/torres/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on plantilla.pdf (3 pages, 488858 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
