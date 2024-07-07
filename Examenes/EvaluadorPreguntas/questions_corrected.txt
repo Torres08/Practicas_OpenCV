@@ -1,0 +1,518 @@
+1. La interpretación de los fenómenos que se producen en un colectivo de personas producidos por la actividad de un usuario se emplea en...
+a. Análisis de modelos de inteligencia artiﬁcial.
+b. Percepción e interpretación de contexto.
+c. Diseño de sistemas de interacción hombre-máquina.
+d. Redes de sensores móviles. Interacción Hombre-Máquina: Disciplina relacionada con el diseño, evaluación e implementación de sistemas informáticos interactivos para ser usados por personas, y con el estudio de los fenómenos más importantes que están involucrados 
+Solución: c
+
+2. La autonomía en un sistema de computación ubicua se reﬁere a la capacidad de percibir el contexto y realizar una acción que considere adecuada sin necesidad de que el usuario autorice de manera explícita dicha acción.
+a. El resto de aﬁrmaciones son falsas.
+b. La autonomía no es una propiedad de un sistema de computación ubicua.
+c. Esa deﬁnición no es la de autonomía sino la de consciencia de contexto pasiva.
+d. La autonomía es la propiedad que permite que la interacción hombre-máquina sea más implícita. Deﬁnición autonomía: Propiedad de un sistema que le permite tener control de sus propias acciones. 
+Solución: a
+
+3. En una red de sensores en la que todos los nodos disponen del mismo hardware para las conexiones inalámbricas...
+a. ...la métrica de distancia geográﬁca es la más precisa porque no pueden encontrarse callejones sin salida debido a que todos los nodos emplean el mismo hardware.
+b. ...la distancia geográﬁca dará mejores resultados que la distancia basada en el número de saltos.
+c. ...la métrica de enrutamiento más precisa es la de distancia geográﬁca entre nodos (siempre que cada nodo disponga de sensores de localización)
+d. Las demás aﬁrmaciones son falsas. 
+Solución: d
+
+4. El método más habitual para veriﬁcar la identidad de un usuario es el empleo de contraseñas de las que se suele guardar solamente un hash.
+a. Verdadero, y además en caso de que el usuario olvide la contraseña, ésta puede ser recuperada a partir del HASH.
+b. Falso, el HASH es un método empleado para garantizar la integridad, no la identidad.
+c. Verdadero, además se puede condimentar la contraseña.
+d. Falso, el método más habitual para veriﬁcar la identidad son los parámetros biométricos El mecanismo clásico es el de la pareja usuario/contraseña: Punto vulnerable si el atacante accede a la lista de contraseñas. Por ello suele guardar solo un hash de la contraseña. 
+Solución: c
+
+5. La calidad del propósito estimado depende de la cantidad y calidad de la información del contexto que se perciba:
+a. Verdadero, pero solo en caso del contexto físico.
+b. Falso, el propósito depende de la situación, no del contexto.
+c. Verdadero, además el resultado será más útil si se emplean las técnicas de I.A. adecuadas.
+d. Falso, no importa la cantidad de información sino las técnicas de I.A. empleadas para la estimación del propósito. 
+Solución: c
+
+6. El clustering en redes de sensores inalámbricos...
+a. ...siempre se realiza agrupando los nodos según un criterio geográﬁco y seleccionando una estación base entre los miembros de cada grupo.
+b. ...siempre se realiza seleccionando al azar varias estaciones base y asignando a cada una de ellas los nodos más cercanos.
+c. ...requiere que antes de la implantación se seleccione una estación base por cada grupo.
+d. Las demás aﬁrmaciones son falsas. 
+Solución: c
+
+7. ¿Cómo debemos actuar ante la ambigüedad contextual? Seleccione una:
+a. Las demás aﬁrmaciones son falsas.
+b. Preguntando al usuario por la decisión correcta.
+c. Eliminando los factores que introducen ambigüedad y recalculando sin ellos.
+d. Usando sistemas que suponen que el mundo no es ambiguo o que sean capaces de tratar con la ambigüedad. Ambigüedad contextual: Debemos actuar de la siguiente manera: - Sistemas que suponen que el mundo no es ambiguo -> Proporcionan resultados no adecuados. - Sistemas capaces de tratar con la ambigüedad 
+Solución: d
+
+8. Las propiedades básicas y adicionales de un sistema de computación ubicua son: existencia de un sistema distribuido que interconecta todos los elementos, énfasis en una interacción hombre-máquina explícita, uso intensivo de técnicas de consciencia de contexto y empleo de Inteligencia Artiﬁcial:
+a. Las propiedades indicadas son las básicas y adicionales de los sistemas de computación ubicua
+b. Todas las propiedades mencionadas son correctas pero hay una propiedad adicional que no se ha indicado
+c. Falta una propiedad y de las mencionadas una es falsa
+d. Solo se han indicado las propiedades básicas. Falta indicar las propiedades adicionales. Propiedades Básicas: - Computadores interconectados distribuidos y accesibles de modo transparente - Interacción hombre-máquina más natural (FALSO: énfasis en una interacción hombre-máquina explícita) - Computadores conscientes del contexto Propiedades Adicionales: - Trabajo autónomo de computadores (FALTA ESTA) - Toma de decisiones inteligente 
+Solución: c
+
+9. Interacción hombre-máquina más natural y consciencia de contexto son propiedades de la computación ubicua pero no se necesitan la una a la otra para ser efectivas:
+a. Verdadero, la interacción hombre→máquina se produce primero, después actúa la consciencia de contexto para decidir una acción y después se produce la interacción máquina→hombre para mostrar los resultados.
+b. Falso, para que se produzca la interacción hombre-máquina implícita es necesario que el usuario tenga un modelo mental del sistema (contexto humano).
+c. Verdadero, tanto interacción hombre-máquina implícita como consciencia de contexto siguen cursos paralelos independientes.
+d. Las demás aﬁrmaciones son falsas (CORRECCIÓN DEL PROFESOR) 
+Solución: d
+
+10. En las redes de sensores...
+a. ...siempre se realizan conexiones inalámbricas desde nodos que puede que no permanezcan estáticos
+b. ...son frecuentes las conexiones inalámbricas desde nodos que puede que no permanezcan estáticos
+c. ...sólo se realizan conexiones inalámbricas en las estaciones base
+d. ...solo se realizan conexiones inalámbricas cuando los nodos a conectar no permanecen estáticos Los sensores no tienen porqué ser estáticos, ejemplo: ● Redes de sensores corporales obteniendo información de parámetros biométricos. ● Crowdsourcing obteniendo información de comunidades de individuos. 
+Solución: b
+
+11. ¿A qué puede deberse que el usuario cometa un número elevado de errores en la interacción con un dispositivo?:
+a. A que el usuario se ve abrumado por todos los sistemas que debe controlar.
+b. A una incorrecta interpretación del contexto que provoca errores en la inferencia contextual.
+c. A un pobre diseño de interfaz de usuario.
+d. A una incorrecta implementación de la autonomía en dicho dispositivo que hace que no corrija los errores. 
+Solución: c
+
+12. En una red de sensores...
+a. ...los nodos captan algunas propiedades físicas, las procesan y transmiten a la estación base.
+b. ...todos los nodos disponen siempre de los mismos sensores con los que miden unas propiedades que envían a la estación base.
+c. ...los nodos captan algunas propiedades físicas y las transmiten fuera de la red.
+d. El resto de aﬁrmaciones son falsas. Uno de los nodos de la red (sumidero/estación base) realizará la función de transmitir los datos fuera de la red (pero no todos por ello no es la c) 
+Solución: d
+
+13. Los protocolos de acceso al medio especíﬁcos para redes de sensores…
+a. ...establecen periodos de actividad y descanso para reducir el consumo energético y aumentar las colisiones.
+b. ...establecen periodos de actividad y descanso estáticos establecidos durante la implantación de la red.
+c. ...establecen periodos de actividad y descanso para reducir el consumo energético y las colisiones.
+d. Las demás aﬁrmaciones son falsas. Los objetivos de los protocolos de acceso al medio son: - Escalabilidad. - Minimizar colisiones, overhearing, esperas de datos, transmisión de metadatos, consumo energético, retraso... - Maximizar rendimiento. 
+Solución: c
+
+14. Los tipos de contexto son:
+a. Físico, humano y virtual, que son los primarios, y el relativo que es el secundario.
+b. Físico y humano que son los primarios y virtual que es secundario.
+c. Físico, humano y virtual, pudiendo ser tanto primarios como secundarios.
+d. Primario, intermedio y secundario. Tipos de contexto - Físico: fenómenos o medidas del mundo físico - Humano: características de los usuarios - Virtual: servicios disponibles 
+Solución: c
+
+15. Las amenazas a la seguridad de un sistema de computación ubicua son:
+a. Problemas con la conﬁdencialidad, integridad y disponibilidad frente a usuarios no autorizados.
+b. Problemas con la conﬁdencialidad, integridad y disponibilidad frente a usuarios autorizados.
+c. Problemas con la conﬁdencialidad, integridad, disponibilidad y autorización.
+d. Las demás aﬁrmaciones son falsas. La seguridad del sistema está amenazada por problemas que afectan a: - Conﬁdencialidad: la información permanece accesible solo a quién esté autorizado. - Integridad: modiﬁcaciones no autorizadas de la información no pasan desapercibidas. - Disponibilidad: el sistema ofrece su servicio cuando un usuario autorizado lo solicita. 
+Solución: a
+
+16. Entre los mecanismos básicos empleados por los protocolos de enrutamiento en redes de sensores…
+a. ...convergecast equivale a múltiples transmisiones unicast a la estación base.
+b. Las demás aﬁrmaciones son falsas.
+c. ...unicast equivale a múltiples transmisiones convergecast a la estación base.
+d. ...nunca, jamás, en ninguna circunstancia, se emplea broadcast debido a su alto consumo energético. 
+Solución: b
+
+17. Tipo de aprendizaje que se ajusta progresivamente con el objetivo de maximizar las recompensas recibidas.
+a. Aprendizaje no supervisado.
+b. Las demás aﬁrmaciones son falsas .
+c. Aprendizaje supervisado.
+d. Aprendizaje por refuerzo. Aprendizaje por refuerzo: Cada acción viene acompañada de una recompensa o castigo. 
+Solución: d
+
+18. Los problemas de la comunicación explícita del contexto se pueden subsanar…
+a. ...mejorando el lenguaje, por ejemplo combinando lenguaje verbal y gestual, se eliminan los problemas de comunicación aunque el hecho de que sea una comunicación explícita rompe con la transparencia y naturalidad.
+b. Las demás aﬁrmaciones son falsas.
+c. ...pero aun así seguirán existiendo bastantes diﬁcultades en la comunicación en un sistema de computación ubicua.
+d. ...mejorando el lenguaje usado para comunicarse con las máquinas para que nos sea más natural de modo que se soluciona por completo el problema de la comunicación. Para subsanar esa deﬁciencia en la comunicación podemos: - Mejorar el lenguaje que los humanos pueden usar para comunicarse con el ordenador. - El objetivo es una comunicación más natural. - Puede combinar lenguaje verbal y gestual. Aunque mejoremos el lenguaje usado para comunicarnos con el ordenador, al tratarse de una comunicación muy explícita seguirán existiendo bastantes diﬁcultades en la comunicación. Una mejora del lenguaje no soluciona el problema de la comunicación con el ordenador. 
+Solución: c
+
+19. ¿Por qué no pueden coexistir sensibilidad al contexto activa y pasiva en el mismo sistema? Seleccione una:
+a. Porque el empleo de la sensibilidad al contexto pasiva impide el empleo de la pasiva por deﬁnición.
+b. Porque si se usa la activa ya no tiene sentido emplear la pasiva para informar de algo que ya se ha hecho.
+c. Porque cada uno necesita un sistema independiente para que no haya acoplamiento.
+d. Sí pueden coexistir, el contexto humano determinará cuál de las dos usar. 
+Solución: d
+
+20. Son algunas de las características de una red de sensores:
+a. Las demás aﬁrmaciones son falsas.
+b. Los nodos se distribuyen en entornos que pueden ser hostiles.
+c. Ciertos nodos destacados tienen los mismos componentes para simpliﬁcar la gestión de los nodos base.
+d. Suele haber un número bajo de nodos con un comportamiento adaptable a cambios en el entorno. Características de las redes de sensores: - Suele haber un número alto de nodos. - Distribuidos en un entorno que puede ser hostil. - Algunos componentes se incorporarán solo a algunos nodos para reducir costes. - Es importante que el consumo energético sea reducido. - Autónomo, de operación desatendida y adaptable a cambio en el entorno. 
+Solución: b
+
+21. Un problema complejo de afrontar en la interacción hombre-máquina implícita es:
+a. La interacción hombre-máquina implícita sólo plantea problemas fáciles de afrontar.
+b. La determinación del contexto humano no puede ser muy compleja.
+c. La construcción del modelo del sistema puede necesitar mucho tiempo.
+d. El proceso de determinar el contexto humano puede no ser preciso o plantear problemas de distracción al usuario 
+Solución: c
+
+22. Si se garantiza la conﬁdencialidad entonces no tendremos problemas de integridad:
+a. Verdadero, aunque la conﬁdencialidad sí que no podrá garantizar la disponibilidad.
+b. Falso, ya que la integridad trata de evitar que se modiﬁque un mensaje y eso es imposible de garantizar.
+c. Falso, que no podamos leer un mensaje no nos impide modiﬁcarlo sin que se detecten las modiﬁcaciones no autorizadas.
+d. Verdadero, ya que si no estamos autorizados entonces al no poder leer un mensaje es imposible modiﬁcarlo sin ser detectados. Integridad no implica conﬁdencialidad y conﬁdencialidad no implica integridad. 
+Solución: c
+
+23. Los mecanismos de garantía de integridad...
+a. No modiﬁcan el mensaje original a excepción de la ﬁrma digital que sí que lo encripta.
+b. Las demás aﬁrmaciones son falsas.
+c. Añaden información redundante sin modiﬁcar el mensaje original.
+d. Modiﬁcan el mensaje original mediante un cifrado para preservar la integridad. 
+Solución: c
+
+24. La HCI moderna...
+a. …estudia sistemas que tratan de satisfacer las variadas necesidades humanas.
+b. ...excluye el estudio de la psicología humana para lograr así mecanismos de interacción inclusivos que no consideren las particularidades de cada usuario sino que consideren las habilidades comunes al ser humano.
+c. Las demás aﬁrmaciones son falsas.
+d. ...considera la interacción ajena a las emociones para así lograr unos resultados objetivos más útiles. HCI Moderna: se consideran las características del ser humano que inﬂuyen en la interacción. 
+Solución: a
+
+25. Proceso mediante el cual un sistema consciente de contexto obtiene datos del entorno y determina la situación en la que se encuentra el usuario
+a. Inferencia de propósito
+b. Inferencia situacional
+c. Inferencia contextual
+d. Aprendizaje por refuerzo Inferencia contextual: Proceso mediante el cual un sistema consciente de contexto obtiene datos del entorno y determina la situación en la que se encuentra el usuario. Dicha situación se empleará para inferir el propósito del usuario. 
+Solución: c
+
+26. El grado de "integración", es decir, la capacidad de incorporar capacidades computacionales en objetos cotidianos, es un factor que limita la movilidad de dichos objetos en un ambiente de computación ubicua:
+a. Falso, no existe dicha limitación.
+b. Verdadero, por lo que en un ambiente de computación ubicua es muy importante alcanzar un compromiso adecuado entre integración y movilidad.
+c. La movilidad no es una característica pertinente en un sistema de computación ubicua por lo que no tiene sentido la aﬁrmación y no es ni verdadera ni falsa.
+d. Las demás aﬁrmaciones son falsas. 
+Solución: a
+
+27. Aunque en la mayoría de las ocasiones los términos “Computación Ubicua” y “Computación Pervasiva” son usados con el mismo signiﬁcado, existe una sutil diferencia entre ambas:
+a. La diferencia radica en el grado de autonomía, que es mayor en la Computación Pervasiva
+b. La diferencia radica en el grado de integración, que es mayor en la Computación Pervasiva
+c. La diferencia radica en el grado de expansión de las redes de sensores, que es mayor en la Computación Ubicua
+d. La diferencia radica en el grado de movilidad, que es mayor en la Computación Ubicua La computación pervasiva consta de una movilidad baja, como puede ser una cocina, donde los elementos permanecen en el sitio. 
+Solución: d
+
+28. Existen dos categorías de contexto:
+a. Las demás aﬁrmaciones son falsas.
+b. Activo o pasivo, en función de que se desee que el sistema actúe o se limite a facilitar información respectivamente.
+c. Ubicuo o pervasivo, dependiendo del grado de movilidad del entorno.
+d. Primario o secundario, siendo el secundario más importante ya que se deduce del primario y por ello ostenta un nivel de abstracción mayor. Categorías de contexto: - Primario: localización, tiempo, identidad… Elementos medibles en el entorno. Es más importante que el secundario. - Secundario: distancia, relaciones… Se deduce del primario. 
+Solución: a
+
+29. La interacción implícita en un sistema de computación ubicua hace innecesarias las interfaces de usuario debido a que el usuario no realiza una interacción de manera consciente:
+a. Verdadero, aunque será necesario que la IA sustituya al humano en dichas interacciones no realizadas.
+b. Falso, porque aunque el usuario no haga interacción, el sistema sí que necesitará hacer dicha interacción para facilitar los resultados.
+c. Falso, son necesarias la UI aunque deben adecuarse a las características de un entorno de computación ubicua.
+d. Verdadero, aunque para conseguirlo se necesita una percepción del contexto humano bastante precisa. 
+Solución: c
+
+30. Aunque la interacción humana puede ser bidireccional, desde el punto de vista de una máquina dicha interacción es siempre unidireccional, bien sea facilitando información al usuario en el caso de dispositivos de salida o bien recibiendo datos y órdenes en el caso de dispositivos de entrada.
+a. Pasapalabra.
+b. Falso.
+c. La aﬁrmación no tiene sentido por lo que no es verdadera ni falsa.
+d. Verdadero. 
+Solución: b
+
+31. ¿Por qué el empleo de inteligencia artiﬁcial mejora notablemente la capacidad de consciencia de contexto?
+a. Porque permite la creación de modelos de usuario que mejoran la percepción del contexto virtual
+b. Porque permite determinar con menor precisión cuál es el propósito
+c. Porque mejora la agregación de información de contexto para determinar la situación.
+d. Porque se percibe con mayor certeza la interacción implícita 
+Solución: c
+
+32. El protocolo de puzle trata de preservar la disponibilidad...
+a. emitiendo por canales cambiantes dependiendo de una función pseudoaleatoria.
+b. ofreciendo al cliente una prueba que requiere cierto poder computacional.
+c. ...de modo que no se puedan saturar los recursos del sistema ni sufrir ataques al canal de comunicaciones.
+d. solicitando al usuario un pago simbólico. Protocolo de puzzle: - El sistema ofrece al cliente una prueba que le requerirá cierto poder computacional para resolverla. - Esto previene el saturar los recursos del sistema pero no previene los problemas de ataque al canal. 
+Solución: b
+
+33. En un entorno de computación ubicua la interacción explícita con los múltiples dispositivos es compleja. De las siguientes aﬁrmaciones una no justiﬁca dicha complejidad. ¿Cuál?
+a. Se pueden afrontar varias tareas a la vez y éstas pueden estar compartidas.
+b. Hay involucrados múltiples dispositivos y múltiples usuarios.
+c. Las actividades pueden desarrollarse en múltiples entornos físicos.
+d. La diﬁcultad de estimar correctamente el propósito crece exponencialmente con el número de dispositivos. 
+Solución: d
+
+34. ¿Cuáles son los problemas a los que se enfrenta la inferencia contextual?
+a. Incertidumbre y ambigüedad provocada por, entre otras causas, sensores defectuosos
+b. Incertidumbre y ambigüedad provocada por sobrecarga de sensores redundantes
+c. Incertidumbre y ambigüedad provocada por, entre otras causas, sensores con precisión ilimitada
+d. Incertidumbre, ambigüedad y deslocalización contextual Ambigüedad contextual: ● Origen: - Sensores defectuosos o con precisión limitada. - Entornos sin sensores. ● Debe permitirse al usuario controlar el modo en que va a comportarse la aplicación. 
+Solución: a
+
+35. Si podemos permitirnos comprar todo el hardware necesario, ¿dónde nos interesa que resida la I.A. en nuestro entorno de computación ubicua?
+a. I.A.  Distribuida
+b. I.A. Embebida
+c. I.A. remota
+d. I.A. en la red IA embebida: ● Las técnicas de Ia IA necesarias se meten dentro de los nodos de la red. ● Es conceptualmente la mejor solución ● Cada nodo debe tener potencia de cálculo acorde a sus necesidades básicas más las impuestas por la IA ● Una desventaja es que el sistema puede mostrar un comportamiento fragmentado en lugar de un comportamiento colaborativo. 
+Solución: b
+
+36. Tipo de entorno en el que se desenvuelve un agente inteligente que juega al ajedrez usando un tiempo límite para la realización de las jugadas:
+a. Estático
+b. Hiperestático
+c. Semidinámico
+d. Dinámico 
+Solución: c
+
+37. La ﬁrma digital no garantiza la conﬁdencialidad:
+a. Verdadero, lo que garantiza es la integridad.
+b. Verdadero, lo que garantiza es la integridad siempre y cuando se conozcan las claves pública y privada.
+c. Falso, el cifrado con la pareja de clave pública/clave privada sí garantiza la conﬁdencialidad.
+d. Las demás aﬁrmaciones son falsas. Para garantizar la integridad tenemos varias alternativas: - HASH: Para fortalecer la integridad se añaden a los mensajes información redundante que ayuda a detectar modiﬁcaciones. Un atacante puede modiﬁcar el mensaje y componer un nuevo código hash. El receptor no podrá darse cuenta de que el mensaje ha sido alterado. - Códigos de autentiﬁcación de mensaje (MAC) - Firma digital 
+Solución: a
+
+38. ¿Por qué la existencia de múltiples dispositivos con capacidades computacionales en un entorno de computación ubicua hace necesario el uso de mecanismos de interacción implícita?
+a. No tiene nada que ver la interacción implícita con la existencia de múltiples dispositivos.
+b. Las demás aﬁrmaciones son falsas.
+c. Porque el usuario puede abrumarse al necesitar controlar tantos sistemas.
+d. Los mecanismos que sí son necesarios son los explícitos, no los implícitos. HCI explícita: - Pone al usuario en el centro del proceso. - El usuario controla las operaciones del sistema - La existencia de múltiples dispositivos puede hacer que el usuario se abrume por tantos sistemas que controlar. 
+Solución: c
+
+39. ¿Por qué no es adecuado suministrar explícitamente la información del contexto para enriquecer la comunicación entre ordenadores y personas?
+a. Sí es adecuado ya que ello permite una mejor determinación de la situación.
+b. Porque garantiza los objetivos de transparencia y naturalidad que deseamos en un ambiente de computación ubicua.
+c. Porque es el único modo en que se puede enriquecer la comunicación.
+d. Porque esa comunicación de información de contexto siempre estará inﬂuenciada por el punto del usuario. 
+Solución: d
+
+40. Contexto y situación:
+a. Las demás aﬁrmaciones son falsas.
+b. La situación es el resultado de agregar los datos del contexto.
+c. La situación se encuentra en un nivel de abstracción más bajo que el contexto.
+d. El contexto es el resultado de extraer información de las situaciones percibidas. Contexto: características de las entidades que nos rodean y son relevantes. Situación: coger las características dadas, juntarlas y tratar de explicar qué está ocurriendo. 
+Solución: b
+
+41. Mecanismos de garantía de la integridad:
+a. Los códigos de autenticación de mensaje garantizan tanto la identidad del emisor como la integridad del mensaje.
+b. Las demás aﬁrmaciones son falsas
+c. Los códigos HASH añaden información redundante que garantiza al 100% que el mensaje no ha sido modiﬁcado sin autorización.
+d. La ﬁrma digital garantiza la integridad e identidad del emisor siempre y cuando esté garantizada la conﬁdencialidad. 
+Solución: d
+
+42. Existen diversos modos de representar el contexto entre los que se encuentran:
+a. Lenguajes de marcado, capaces de gestionar información incompleta a pesar de su débil formalismo.
+b. Grafos, con gran gestión de información incompleta aunque no soporte bien los modelos distribuidos.
+c. Pares clave/valor, fáciles de gestionar y de gran expresividad.
+d. Ontologías, con un estructurado muy expresivo y gran escalabilidad. Representación del contexto: 15 a64b0469ff35958ef4ab887a898bd50bdfbbe91a-5803248 Elimina la publicidad de este documento con 1 coin Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad. @martasw99 - Pares clave / valor: Muy fácil de gestionar. Pobre en expresividad, poco eﬁciente, problemas con valores ausentes y atributos multivaluados. - Lenguaje de marcado: capaz de gestionar información incompleta y heterogénea, acceso a la información mediante un lenguaje  de consulta. Débil formalismo. - Grafos: más expresivo que los pares clave / valor y el lenguaje de marcado. Mala gestión de información incompleta, soporte de modelos distribuidos. - Lógica: fuerte formalismo, expresividad en la escritura. Mala gestión de datos incompletos, inciertos y heterogéneos, estructurado simple. - Ontología: estructurado expresivo, representación de información heterogénea. Mala gestión de incertidumbre y escalabilidad. 
+Solución: a
+
+43. Un buen diseño de la interfaz de usuario permite que un usuario no tenga problemas para establecer interacciones explícitas en un entorno de computación ubicua:
+a. Verdadero, siempre y cuando haya una buena implementación de la consciencia del contexto.
+b. Ni verdadero ni falso. No tiene nada que ver el diseño de la UI en la interacción en un entorno de computación ubicua.
+c. Verdadero.
+d. Falso. 
+Solución: d
+
+44. La disciplina que estudia la interacción hombre-máquina actualmente considera a los usuarios como individuos con capacidades comunes...
+a. con una capacidad de procesamiento de información ilimitada.
+b. sin ignorar que se trata de individuos distintos.
+c. Las demás aﬁrmaciones son falsas
+d. ... que emplean varios canales de emisión y recepción de información sin que las emociones les afecten. 
+Solución: c
+
+45. En una red de sensores se pueden emplear protocolos de acceso al medio que no han sido especíﬁcamente diseñados para redes de sensores...
+a. como por ejemplo el acceso múltiple por escucha de portadora que garantiza la ausencia de problemas de nodo oculto y nodo expuesto.
+b. ...como por ejemplo la división de frecuencias, aunque ésta presenta un bajo rendimiento.
+c. ...como por ejemplo la división temporal aunque no se garantiza la ausencia de colisiones.
+d. Las demás aﬁrmaciones son falsas. 
+Solución: b
+
+46. Los protocolos de acceso al medio en redes de sensores tienen como objetivos:
+a. Maximizar el overhearing y minimizar el consumo energético.
+b. Minimizar las colisiones y maximizar la transmisión de metadatos.
+c. Las demás aﬁrmaciones son falsas.
+d. Minimizar el overhearing y maximizar la transmisión de metadatos. Objetivos: - Escalabilidad - Minimizar colisiones, overhearing, esperas de datos, transmisión de metadatos, consumo energético, retraso… - Maximizar rendimiento 
+Solución: c
+
+47. Tipo de modelo de arquitectura de sistema inteligente que considera que el entorno muestra un comportamiento inteligente:
+a. Bilateral
+b. Inteligente
+c. Ontológico
+d. Híbrido 
+Solución: a
+
+48. En una red de sensores los factores fundamentales en la gestión del enlace son: Seleccione una:
+a. Que los paquetes lleguen sin errores y sin pérdidas.
+b. Que los paquetes lleguen sin pérdidas y sin duplicados.
+c. Que los paquetes lleguen en el orden adecuado y sin duplicados.
+d. Que los paquetes lleguen sin errores y en el orden adecuado. En una red de ordenadores se busca que los paquetes emitidos lleguen al receptor: - Sin errores. - En el orden adecuado. - Sin duplicados. - Sin pérdidas. En una red de sensores los duplicados y el orden no son parámetros muy relevantes por lo que el objetivo es: - Sin errores. - Sin pérdidas. 
+Solución: a
+
+49. Red semántica:
+a. Representación de entidades que se adaptan muy bien al mundo real.
+b. Representación del conocimiento expresiva pero poco estructurada.
+c. Representación de conocimiento estructurada pero de complicado uso en inferencia de información.
+d. Representación del conocimiento lingüístico en la que en un grafo representamos conceptos y relaciones. 
+Solución: d
+
+50. La garantía de disponibilidad establece:
+a. Que un usuario autorizado siempre podrá acceder a los servicios a los que tiene derecho.
+b. Las demás aﬁrmaciones son falsas.
+c. Que cualquier usuario podrá ofrecer sus servicios a los sistemas autorizados.
+d. Que el sistema siempre ofrecerá los servicios a los que está dedicado a cualquier usuario. Disponibilidad: Garantía de que el sistema ofrece su servicio a un usuario autorizado cuando lo solicita. Cuando el sistema no es capaz de atender los servicios solicitados se encuentra en una condición de denegación de servicio(DoS). 
+Solución: a
+
+51. El sistema distribuido presente en un entorno de computación ubicua permite ofrecer al usuario múltiples servicios de modo transparente y natural:
+a. Verdadero, y además el usuario percibe todo el sistema como un único elemento computacional.
+b. Falso, los problemas de seguridad derivados de la existencia del sistema distribuido impiden por completo la naturalidad.
+c. Falso, no tiene nada que ver la interacción hombre-máquina implícita con los sistemas distribuidos.
+d. Verdadero, aunque sin dicho sistema distribuido el grado de transparencia sería aún mayor. 
+Solución: a
+
+52. La psicología es una de las muchas disciplinas de las que se nutre la interacción hombre-máquina:
+a. Verdadero, la psicología estudia los fenómenos colectivos producidos por la interacción.
+b. Las demás aﬁrmaciones son falsas.
+c. Falso, la psicología es una disciplina humana que nada tiene que ver con las máquinas.
+d. Falso, la HCI se estudia tan solo desde las disciplinas informática y de diseño industrial. 
+Solución: b
+
+53. ¿Para garantizar la conﬁdencialidad es recomendable ocultar el algoritmo de cifrado?
+a. Sí, lo cual nos permitirá tener mejor control de la privacidad de los parámetros (claves).
+b. Sí, tendremos mayor seguridad cuanta menos información demos a un posible atacante.
+c. No, porque si ocultamos el algoritmo de cifrado entonces un usuario autorizado no podrá acceder al sistema al desconocer el algoritmo que debe usar.
+d. No, ya que la no ocultación del algoritmo permitirá un mejor análisis para detectar antes sus vulnerabilidades. La seguridad de un sistema de cifrado no debe recaer en la ocultación del algoritmo de cifrado sino en: - Un espacio de claves suﬁcientemente grande - Gestión adecuada de las claves 
+Solución: d
+
+54. El usuario ﬁnal puede percibir como una amenaza el hecho de que pierda el control del sistema:
+a. Por ello la pérdida de control ha de ser paulatina y producirse en un momento en que el usuario se encuentre abrumado.
+b. Las demás aﬁrmaciones son falsas.
+c. Por ello todas las aplicaciones deben programarse considerando un usuario estándar.
+d. Por ello tiene mucha importancia una correcta percepción del contexto humano. 
+Solución: d
+
+55. Las eras de la computación en las que Mark Weiser deﬁne la Computación Ubicua son:
+a. Mainframe, PC y Computación Ubicua, diferenciadas entre sí por la velocidad de las comunicaciones inalámbricas.
+b. Mainframe, PC y Computación clásica, diferenciadas entre sí por el nivel de inmersión de la realidad aumentada.
+c. Mainframe, PC, Computación en la nube y Computación Ubicua, diferenciadas entre sí por el grado de dependencia de la existencia de una red de ordenadores.
+d. Mainframe, PC y Computación Ubicua, diferenciadas entre sí por la multiplicidad de la relación existente entre usuario y ordenador. Eras de la computación: - Mainframe: un gran ordenador con el que interactúan muchos usuarios. - PC: Un ordenador para cada usuario. - Computación Ubicua: Muchos ordenadores usados por una persona. 
+Solución: d
+
+56. La disciplina de Interacción Hombre-Máquina estudia la interacción considerando:
+a. Una actividad implícita del hombre hacia la máquina con mecanismos de interacción bidireccional.
+b. Una actividad unidireccional del hombre hacia la máquina con mecanismos de interacción implícita.
+c. Una actividad bidireccional entre hombre y máquina con diversos tipos de interacción implícita.
+d. Diversos tipos de interacción, estudiados tanto desde el punto de vista del hombre hacia la máquina como de la máquina hacia el hombre. 
+Solución: d
+
+57. En la consciencia de contexto podemos aﬁrmar...
+a. La situación es una descripción de más bajo nivel de las entidades implicadas y su interacción.
+b. El propósito es el objetivo que persigue el sistema.
+c. El proceso de inferencia contextual determina el propósito a partir del contexto y situación.
+d. El contexto es el lugar en que se produce la interacción. Inferencia contextual: proceso mediante el cual un sistema consciente de contexto obtiene datos del entorno y determina la situación en la que se encuentra el usuario. Dicha situación se emplea para inferir el propósito del usuario. 
+Solución: c
+
+58. Se puede emplear aprendizaje automático en el proceso de consciencia de contexto:
+a. Al utilizarse aprendizaje automático las relaciones aprendidas siempre serán fáciles de depurar.
+b. Los resultados serán bastante intuitivos para el usuario ﬁnal.
+c. Es posible aprender el propósito directamente a partir del contexto.
+d. En general el proceso de aprendizaje será bastante rápido. Para estimar el propósito tenemos dos alternativas: ● Sistemas basados en reglas. ● Aprendizaje automático: - Aún es necesario inferir la situación a partir del contexto: > Podría usarse aprendizaje automático para determinar el propósito directamente del contexto. 
+Solución: c
+
+59. El contexto humano es el más fácil de captar ya que no necesitamos ningún tipo de sensor Seleccione una:
+a. Falso, es el más difícil de captar.
+b. Las demás aﬁrmaciones son falsas.
+c. No es necesario captar el contexto humano ya que el usuario lo suministra implícitamente con sus acciones logrando transparencia y naturalidad.
+d. Verdadero, sin necesidad de sensores es el propio usuario el que facilita la información del contexto. 
+Solución: a
+
+60. Un agente inteligente cuya misión sea la de conducir un taxi se desenvolverá en un entorno que es:
+a. Completamente observable y dinámico.
+b. No determinista y dinámico.
+c. No determinista y estático.
+d. Parcialmente observable y determinista. 
+Solución: b
+
+61. El posicionamiento por alteración...
+a. calcula la posición empleando el ángulo de llegada de la señal a los dispositivos de referencia.
+b. ...calcula la posición de un dispositivo en base a la distancia a otros dispositivos de los que ya conocemos su ubicación.
+c. calcula la posición de un dispositivo a partir de una función de la potencia de una señal en función de la distancia.
+d. usa la última posición conocida para calcular la nueva ubicación del dispositivo. 
+Solución: b
+
+62. Si la interfaz de usuario es capaz de realizar una tarea que el usuario necesita decimos que dicho UI es:
+a. Usada.
+b. Usable.
+c. Ubicua.
+d. Útil Para que la UI sea efectiva tiene que ser: ● Útil: capacidad para realizar una tarea que el usuario necesita ● Usable: la interacción se realiza de forma fácil, natural y segura ● Usada: debe enriquecerse del uso del usuario. 
+Solución: d
+
+63. Cuando en la interacción hombre-máquina participan simultáneamente varios usuarios pueden hacerlo para cooperar en una tarea común o bien pueden competir por los recursos del sistema
+a. No tiene sentido hablar de múltiples usuarios porque la interacción es un sí misma un acto que involucra a un único usuario.
+b. No tiene sentido que los usuarios compitan entre sí. 22 a64b0469ff35958ef4ab887a898bd50bdfbbe91a-5803248 Elimina la publicidad de este documento con 1 coin Reservados todos los derechos. No se permite la explotación económica ni la transformación de esta obra. Queda permitida la impresión en su totalidad. @martasw99
+c. El sistema no puede distinguir entre varios usuarios si están colaborando entre sí por lo que la participación de más de un usuario sólo tiene sentido si compiten entre sí por los recursos del sistema.
+d. Las demás aﬁrmaciones son falsas. 
+Solución: d
+
+64. ¿Quién puede veriﬁcar la información redundante para detectar si se ha vulnerado la integridad? Seleccione una:
+a. Nadie puede hacer dicha veriﬁcación.
+b. Con HASH y MAC solo quien posea la clave. Con ﬁrma digital solo quien posee la clave privada.
+c. Con HASH y ﬁrma digital cualquiera puede hacerlo. Con MAC solo puede quien posee la clave.
+d. Con HASH cualquiera puede hacerlo. Con MAC y ﬁrma digital solo puede quien posee la clave privada. 
+Solución: c
+
+65. La deﬁnición de Computación Ubicua propone una HCI más natural, donde HCI es:
+a. Human Computer Interaction, disciplina que estudia los sistemas informáticos interactivos y los fenómenos más importantes involucrados.
+b. Human Context Intelligence, disciplina que estudia el empleo de técnicas de Inteligencia Artiﬁcial para conseguir una percepción del contexto humano menos invasiva y más natural.
+c. Heterogeneous Computer Intelligence, disciplina que estudia técnicas de I.A. complementarias para potenciar la efectividad de la percepción del contexto.
+d. Las demás aﬁrmaciones son falsas. 
+Solución: a
+
+66. La condición de integridad garantiza...
+a. que el mensaje no ha sido modiﬁcado por alguien no autorizado.
+b. ...que el mensaje no ha sido modiﬁcado por alguien autorizado aunque nos percatemos de dicha modiﬁcación.
+c. que el mensaje no ha sido modiﬁcado por alguien no autorizado sin que nos percatemos de dicha modiﬁcación.
+d. que el mensaje no ha sido modiﬁcado. 
+Solución: c
+
+67. Si una interfaz de usuario es útil y usable entonces...
+a. como consecuencia de su utilidad y usabilidad está garantizado sea usada por el usuario.
+b. tiene garantizado el éxito comercial.
+c. disfruta de buenas características pero que no garantizan que sea usada por el usuario.
+d. es una interfaz ubicua. 
+Solución: c
+
+68. Los métodos de Inteligencia Artiﬁcial trabajan con entornos que pueden ser:
+a. Estáticos, en los que no se producen cambios en el entorno en el lapso de tiempo dedicado a tomar una decisión.
+b. Parcialmente observables, cuando toda la información del entorno es captada por los sensores.
+c. Secuencial, cuando la acción a realizar en cada momento depende tan solo del estado actual y no depende de estados pasados.
+d. No deterministas, cuando el futuro estado del entorno se puede determinar a partir del estado actual y de las acciones que se lleven a cabo 
+Solución: a
+
+69. Modelo de arquitectura de sistema inteligente que considera estados pasados así como el modo en que funciona el entorno
+a. Modelo reactivo.
+b. Modelo basado en el entorno.
+c. Modelo de entorno.
+d. Modelo híbrido. Basado en el entorno: tiene en cuenta estados pasados así como modelos de cómo “funciona” el entorno. 
+Solución: b
+
+70. La autonomía en un sistema de Computación Ubicua: (Seleccione una)
+a. Permite el autocontrol de las acciones estableciendo como criterios el alcanzar unos objetivos o el respeto a unas restricciones.
+b. Las demás aﬁrmaciones son falsas.
+c. Permite una mayor duración de los sistemas de alimentación eléctrica portátil empleados en la redes de sensores.
+d. Permite una reducción de la intervención del computador para así lograr mayor transparencia y naturalidad en las acciones del usuario. 
+Solución: a
+
+71. Propiedad de un esquema de representación que lo capacita para manipular las estructuras con el objetivo de obtener a partir de ellas nuevo conocimiento
+a. Adecuación representacional.
+b. Eﬁciencia inferencial.
+c. Eﬁciencia en la adquisición.
+d. Adecuación inferencial. Adecuación inferencial: Capacidad para manipular las estructuras para inferir nuevo conocimiento. 
+Solución: d
+
+72. En una partida de ajedrez en la que cada jugador dispone de un tiempo limitado para realizar sus jugadas, caliﬁcamos el entorno como…
+a. Episódico y discreto.
+b. Completamente observable y episódico.
+c. Semidinámico y completamente observable.
+d. Parcialmente observable y discreto. 
+Solución: c
+
+75. Indica la respuesta FALSA. Un entorno reactivo…
+a. se adapta bien a entornos dinámicos.
+b. funciona bien en sistemas de control sencillos.
+c. es adecuado en entornos totalmente observables.
+d. presenta gran dependencia del entorno. Un modelo reactivo no considera estados pasados. 
+Solución: a
+
+112. Ontología…
+a. Modelo de representación del conocimiento.
+b. Método de aprendizaje automático.
+c. Situación de contradicción alcanzada por el sistema de razonamiento.
+d. Técnica de análisis de rendimiento. Una de las arquitecturas de sistemas inteligentes es el modelo basado en conocimiento, donde el sistema dispone internamente de una representación del conocimiento necesario para tomar decisiones: reglas de producción, pizarra y ontologías. 
+Solución: a
+
