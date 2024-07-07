@@ -1,0 +1,27 @@
+Instrucciones para la creación de una imagen Docker que contiene una compilación casi completa de OpenCV, incluido soporte CUDA, ovis (para render 3D) y algoritmos NON-FREE. La imagen también incluye Jupyter-lab para visualizar y ejecutar notebooks de jupyter que próximamente facilitaré.
+
+Yo lo uso desde ArchLinux por lo que supongo que desde cualquier distro Linux debe funcionar sin problema. No uso Windows para trabajar por lo que desconozco la adaptación necesaria para la construcción de la imagen y la ejecución del contenedor.
+
+Contenido del archivo:
+
+Dockerfile
+Video_Codec_SDK_12.1.14.zip
+entrypoint.sh
+Los 3 ficheros deben estar en el mismo directorio para la construcción de la imagen.
+
+Para construir la imagen yo uso desde Linux el siguiente comando:
+docker buildx build -t cuia .
+
+La imagen tarda más de una hora en completarse. Paciencia...
+
+La ejecución de un contenedor con la imagen la realizo con este script:
+
+#!/bin/bash
+/usr/bin/xhost +local:*
+docker run -e DISPLAY=$DISPLAY -v /tmp/.X11-unix/:/tmp/.X11-unix/ -v ./:/host/ --privileged --device=/dev/dri/renderD128 --expose 8888 --user root --gpus=all --rm --name=cuia -it cuia
+
+Necesitas xhost en el SO anfitrión para permitir la creación de ventanas
+Cada vez que se ejecuta "olvida" la anterior ejecución y empieza con un con contenedor limpio.
+El directorio del SO anfitrión desde el que se ejecuta el script aparece en la imagen en la ruta /host/ por lo que allí se pueden guardar datos permanentes entre ejecuciones.
+Usuario: cuia Contraseña: ubicomp
+Usuario: root Contraseña: Weiser!

@@ -1,4 +1,3 @@
-
 ## PinguAR
 Proyecto AR CUIA sobre un modelo pinguino, mascota virtual
 
