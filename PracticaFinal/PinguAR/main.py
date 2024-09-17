@@ -13,7 +13,7 @@ escena = None
 camera_node = None
 
 BASE_URL = ""
-API_KEY = 'b6bda6b06d87f4ae4f869bf020508802'
+API_KEY = 'USE YOURS'
 ciudad = 'Granada'
 temperatura_actual = escenarios.obtener_temperatura_actual(ciudad, API_KEY)
 tiempo = ciudad + " | " + str(temperatura_actual) + " *C"
